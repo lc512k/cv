@@ -37,59 +37,59 @@ FT.com\
 
 ## Previous Roles
 
-**Senior Engineer**
-🇬🇧Lyst *(Nov 2015 - Feb 2016)*
+**Senior Engineer**\
+🇬🇧 Lyst *(Nov 2015 - Feb 2016)*
 
-**Mobile Web Developer**
-🇬🇧Badoo *(Mar 2014 - Nov 2015)*
+**Mobile Web Developer**\
+🇬🇧 Badoo *(Mar 2014 - Nov 2015)*
 
 **Front-end Engineer**
-🇪🇸Buongiorno *(Jan 2013 – Feb 2014)*
+🇪🇸 Buongiorno *(Jan 2013 – Feb 2014)*
 
 **Front-end Developer**\
-🇪🇸Amaris *(Aug 2012 - Jan 2013)*
+🇪🇸 Amaris *(Aug 2012 - Jan 2013)*
 
 **Co-founder & Head of User Experience**\
-🇪🇸Tocarta *(Sep 2011 - Aug 2012)*
+🇪🇸 Tocarta *(Sep 2011 - Aug 2012)*
 
 **Software Engineering and Usability Researcher**\
-🇪🇸Universidad Politécnica de Madrid *(Sep 2007 – Apr 2012)*
+🇪🇸 Universidad Politécnica de Madrid *(Sep 2007 – Apr 2012)*
 
 **Software Developer**\
-🇻🇪Procter & Gamble *(Jul 2005 – Dec 2005)*
+🇻🇪 Procter & Gamble *(Jul 2005 – Dec 2005)*
 
 **Software Engineer**\
-🇻🇪DBAccess *(May 2004 – Jul 2005)*
+🇻🇪 DBAccess *(May 2004 – Jul 2005)*
 
 **Software Engineer**\
-🇸🇪Mondru AB *(Sep 2003 – Dec 2004)*
+🇸🇪 Mondru AB *(Sep 2003 – Dec 2004)*
 
 **Software Developer**\
-🇻🇪isWeb *(2002 – 2003)*
+🇻🇪 isWeb *(2002 – 2003)*
 
 ## Education
 
 **Executive MBA**  
-🇪🇸🇬🇧IE Business School *(2019 – present)*
+🇪🇸🇬🇧 IE Business School *(2019 – present)*
 
 **PhD in Software Engineering and Usability**  
-🇪🇸Universidad Politécnica de Madrid *(2006 – 2012)*
+🇪🇸 Universidad Politécnica de Madrid *(2006 – 2012)*
 
 **MSc in Software Enginering and Project Management**  
-🇪🇸Universidad Politécnica de Madrid *(2005 – 2006)*
+🇪🇸 Universidad Politécnica de Madrid *(2005 – 2006)*
 
 **Exchange program**  
-🇸🇪Lund University *(2003 – 2004)*
+🇸🇪 Lund University *(2003 – 2004)*
 
 **BSc Computer Engineering**  
-🇻🇪Universidad Simón Bolívar *(1997 – 2004)*
+🇻🇪 Universidad Simón Bolívar *(1997 – 2004)*
 
 ## Speaking Merits
-🇧🇾[CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
-🇬🇧[RenderConf 2018](https://2018.render-conf.com/talks)\
-🇪🇪[Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
+🇧🇾 [CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
+🇬🇧 [RenderConf 2018](https://2018.render-conf.com/talks)\
+🇪🇪 [Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
 🇩🇪 [JSConfEU 2017](https://2017.jsconf.eu/speakers/laura-carvajal-yes-your-site-too-can-and-should-be-accessible-lessons-learned-from-building-ftcom.html)\
-🇺🇸[O'Reilly Fluent Conference 2017](https://conferences.oreilly.com/fluent/fl-ca-2017/public/schedule/detail/58272)\
-🇬🇧[FullStack Conference 2017](https://webcache.googleusercontent.com/search?q=cache:vSkD1LE1figJ:https://skillsmatter.com/skillscasts/10165-yes-your-site-can-be-accessible-lessons-learned-in-building-ft-com+&cd=1&hl=en&ct=clnk&gl=uk)\
-🇭🇺[JSConf Budapest 2017](http://2017.jsconfbp.com/speakers/laura-carvajal/)\
-🇮🇪[NodeConfEU 2017](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_)\
+🇺🇸 [O'Reilly Fluent Conference 2017](https://conferences.oreilly.com/fluent/fl-ca-2017/public/schedule/detail/58272)\
+🇬🇧 [FullStack Conference 2017](https://webcache.googleusercontent.com/search?q=cache:vSkD1LE1figJ:https://skillsmatter.com/skillscasts/10165-yes-your-site-can-be-accessible-lessons-learned-in-building-ft-com+&cd=1&hl=en&ct=clnk&gl=uk)\
+🇭🇺 [JSConf Budapest 2017](http://2017.jsconfbp.com/speakers/laura-carvajal/)\
+🇮🇪 [NodeConfEU 2017](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_)\
