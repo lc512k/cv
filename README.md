@@ -39,41 +39,41 @@ FT.com\
 ## 👩🏻‍💻 Previous Roles
 
 **Senior Engineer**\
-🇬🇧 Lyst *(Nov 2015 - Feb 2016)*
+🇬🇧 Lyst *Nov '15 - Feb '16*
 Python/Django/HTML
 
 **Mobile Web Developer**\
-🇬🇧 Badoo *(Mar 2014 - Nov 2015)*
+🇬🇧 Badoo *Mar '14 - Nov '15*
 JavaScript/HTML/LESS
 
 **Front-end Engineer**\
-🇪🇸 Buongiorno *(Jan 2013 – Feb 2014)*
+🇪🇸 Buongiorno *Jan '13 – Feb '14*
 JavaScript/HTML/LESS
 
 **Front-end Developer**\
-🇪🇸 Amaris *(Aug 2012 - Jan 2013)*
+🇪🇸 Amaris, *Aug '12 - Jan '13*
 JavaScript/HTML/CSS
 
 **Co-founder & Head of User Experience**\
-🇪🇸 Tocarta *(Sep 2011 - Aug 2012)*
+🇪🇸 Tocarta, *Sep '11 - Aug '12*
 
 **Software Engineering and Usability Researcher**\
-🇪🇸 Universidad Politécnica de Madrid *(Sep 2007 – Apr 2012)*
+🇪🇸 Universidad Politécnica de Madrid, *Sep '07 – Apr '12*
 
 **Software Developer**\
-🇻🇪 Procter & Gamble *(Jul 2005 – Dec 2005)*
+🇻🇪 Procter & Gamble, *Jul '05 – Dec '05*
 Java
 
 **Software Engineer**\
-🇻🇪 DBAccess *'04 – '05*
+🇻🇪 DBAccess, *'04 – '05*
 Java
 
 **Software Engineer**\
-🇸🇪 Mondru AB *Sep '03 – Dec '04)*\
+🇸🇪 Mondru AB, *Sep '03 – Dec '04*\
 Java/JSP/SQL
 
 **Software Developer**\
-🇻🇪 isWeb *'02 - '03*\
+🇻🇪 isWeb, *'02 - '03*\
 Java/JSP/SQL
 
 ## 🎓 Education
