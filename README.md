@@ -7,7 +7,7 @@ BSc in Computer Engineering.\
 PhD in Software Engineering and Usability, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000)\
 Executive MBA, IE Business School. Class of 2020.
 
-## 📰 Financial Times, 2016 - now
+## 📰 Financial Times, '16 - now
 
 ### Principal Engineer
 Internal Products\
