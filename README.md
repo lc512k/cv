@@ -65,15 +65,15 @@ JavaScript/HTML/CSS
 Java
 
 **Software Engineer**\
-🇻🇪 DBAccess *(May 2004 – Jul 2005)*
+🇻🇪 DBAccess *'04 – '05*
 Java
 
 **Software Engineer**\
-🇸🇪 Mondru AB *(Sep 2003 – Dec 2004)*
+🇸🇪 Mondru AB *Sep '03 – Dec '04)*\
 Java/JSP/SQL
 
 **Software Developer**\
-🇻🇪 isWeb *(2002 – 2003)*
+🇻🇪 isWeb *'02 - '03*\
 Java/JSP/SQL
 
 ## 🎓 Education
