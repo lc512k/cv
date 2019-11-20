@@ -5,7 +5,7 @@ Currently leading 20+ person team at the [Financial Times](ft.com), driving our 
 
 BSc Computer Engineering\
 PhD Software Engineering, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000)\
-Executive MBA, IE Business School. Class of '20
+Executive MBA, [IE](https://www.ie.edu/business-school/programs/mba/executive-mba-en/). Class of 2020
 
 ## 📰 Financial Times, '16 - now
 
