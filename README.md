@@ -7,7 +7,7 @@ PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37
 
 ## 📰 Financial Times, '16 - now
 
-### Principal Engineer
+**Principal Engineer**\
 Internal Products\
 *Feb 2018 – Present*
 
@@ -18,7 +18,7 @@ Internal Products\
 - Co-created the FT's [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR
 - Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers during 10% time, now replicated throughout FT Tech.
 
-### Senior Engineer
+**Senior Engineer**\
 Internal Products\
 *Sep 2017 – Feb 2018*
 
@@ -26,7 +26,7 @@ Internal Products\
 - Responsible for tech recruitment in Internal Products
 - Led 12 people, 4 direct reports
 
-### Senior Engineer
+**Senior Engineer**\
 FT.com\
 *Feb 2016 – Sep 2017*
 - Tech lead for Conversion and Enterprise Tools teams on FT.com
