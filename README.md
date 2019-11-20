@@ -52,9 +52,11 @@ IE Business School EBMA class of 2020
 🇻🇪Universidad Simón Bolívar *(1997 – 2004)*
 
 ## Speaking Merits
+🇧🇾[CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
+🇬🇧[RenderConf 2018](https://2018.render-conf.com/talks)\
 🇪🇪[Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
 🇩🇪 [JSConfEU 2017](https://2017.jsconf.eu/speakers/laura-carvajal-yes-your-site-too-can-and-should-be-accessible-lessons-learned-from-building-ftcom.html)\
 🇺🇸[O'Reilly Fluent Conference 2017](https://conferences.oreilly.com/fluent/fl-ca-2017/public/schedule/detail/58272)\
-🇬🇧[FullStack Conference 2017](https://webcache.googleusercontent.com/search?q=cache:vSkD1LE1figJ:https://skillsmatter.com/skillscasts/10165-yes-your-site-can-be-accessible-lessons-learned-in-building-ft-com+&cd=1&hl=en&ct=clnk&gl=uk)
+🇬🇧[FullStack Conference 2017](https://webcache.googleusercontent.com/search?q=cache:vSkD1LE1figJ:https://skillsmatter.com/skillscasts/10165-yes-your-site-can-be-accessible-lessons-learned-in-building-ft-com+&cd=1&hl=en&ct=clnk&gl=uk)\
 🇭🇺[JSConf Budapest 2017](http://2017.jsconfbp.com/speakers/laura-carvajal/)\
 🇮🇪[NodeConfEU 2017](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_)\
