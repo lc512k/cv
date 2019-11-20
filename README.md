@@ -5,7 +5,7 @@ BSc Computer Engineering\
 PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37086623000)\
 [Executive MBA, IE](https://www.ie.edu/business-school/programs/mba/executive-mba-en/). Class of 2020
 
-## 📰 Financial Times, '16 - now
+## 📰 Financial Times, 2016...
 
 **Principal Engineer**\
 Internal Products\
