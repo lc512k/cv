@@ -79,7 +79,7 @@ Java/JSP/SQL
 ## 🎓 Education
 
 **Executive MBA**  
-🇪🇸🇬🇧 IE Business School *'19 – present*
+🇪🇸🇬🇧 IE Business School *'19 - present*
 
 **PhD in Software Engineering and Usability**  
 🇪🇸 Universidad Politécnica de Madrid *'06-'12*
