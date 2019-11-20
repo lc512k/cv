@@ -36,25 +36,20 @@ IE Business School EBMA class of 2020
 
 ## Education
 
-IE Business School (2019 – 2020)
+🇪🇸🇬🇧IE Business School (2019 – 2020)
 Executive MBA
-Madrid
 
-Universidad Politécnica de Madrid (2006 – 2012)
+🇪🇸Universidad Politécnica de Madrid (2006 – 2012)
 PhD in Software Engineering and Usability
-Madrid
 
-Universidad Politécnica de Madrid (2005 – 2006)
+🇪🇸Universidad Politécnica de Madrid (2005 – 2006)
 MSc in Software Enginering and Project Management
-Madrid
 
-Lund University (2003 – 2004)
+🇸🇪Lund University (2003 – 2004)
 1-year exchange program at LTH Datavetenskap (Computer Science)
-Sweden
 
-Universidad Simón Bolívar (1997 – 2004)
+🇻🇪Universidad Simón Bolívar (1997 – 2004)
 BSc Computer Engineering
-Venezuela
 
 ## Speaking Merits
 🇩🇪 [JSConfEU 2017](https://2017.jsconf.eu/speakers/laura-carvajal-yes-your-site-too-can-and-should-be-accessible-lessons-learned-from-building-ftcom.html)
