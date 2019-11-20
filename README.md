@@ -46,12 +46,12 @@ Nov '15 - Feb '16\
 **Mobile Web Developer**\
 🇬🇧 Badoo\
 Mar '14 - Nov '15\
-`JavaScript/HTML/LESS`
+`JavaScript/HTML/CSS`
 
 **Front-end Engineer**\
 🇪🇸 Buongiorno\
 Jan '13 – Feb '14\
-`JavaScript/HTML/LESS`
+`JavaScript/HTML/CSS`
 
 **Front-end Developer**\
 🇪🇸 Amaris\
