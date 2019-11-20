@@ -1,6 +1,5 @@
 # Laura Carvajal
-Software Engineer with 15 years experience\
-Currently leading 20+ person team at the [Financial Times](ft.com), driving our internal product transformation strategy.
+I'm a Software Engineer with 15 years of experience, currently leading 20+ person team at the [Financial Times](ft.com), driving our internal product transformation strategy.
 
 BSc Computer Engineering\
 PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37086623000)\
