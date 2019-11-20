@@ -6,7 +6,7 @@ BSc in Computer Engineering. PhD in Software Engineering and Usability, [publish
 
 IE Business School EBMA class of 2020
 
-## Financial Times (2016 - Present)
+## 📰 Financial Times (2016 - Present)
 
 ### Principal Engineer
 Internal Products\
@@ -35,7 +35,7 @@ FT.com\
 - Lead the accessibility team's dev work, accreditation process and company-wide culture shift
 - Recruitment lead and hiring manager for 35+ team
 
-## Previous Roles
+## 👩🏻‍💻 Previous Roles
 
 **Senior Engineer**\
 🇬🇧 Lyst *(Nov 2015 - Feb 2016)*
@@ -67,7 +67,7 @@ FT.com\
 **Software Developer**\
 🇻🇪 isWeb *(2002 – 2003)*
 
-## Education
+## 🎓 Education
 
 **Executive MBA**  
 🇪🇸🇬🇧 IE Business School *(2019 – present)*
@@ -84,7 +84,7 @@ FT.com\
 **BSc Computer Engineering**  
 🇻🇪 Universidad Simón Bolívar *(1997 – 2004)*
 
-## Speaking Merits
+## 🎤 Speaking Merits
 🇧🇾 [CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
 🇬🇧 [RenderConf 2018](https://2018.render-conf.com/talks)\
 🇪🇪 [Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
