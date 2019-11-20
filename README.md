@@ -79,19 +79,19 @@ Java/JSP/SQL
 ## 🎓 Education
 
 **Executive MBA**  
-🇪🇸🇬🇧 IE Business School *(19 – present)*
+🇪🇸🇬🇧IE Business School *'19 – present*
 
 **PhD in Software Engineering and Usability**  
-🇪🇸 Universidad Politécnica de Madrid *('06-'12)*
+🇪🇸Universidad Politécnica de Madrid *'06-'12*
 
 **MSc in Software Enginering and Project Management**  
-🇪🇸 Universidad Politécnica de Madrid *('05-'06)*
+🇪🇸Universidad Politécnica de Madrid *'05-'06*
 
 **Exchange program**  
-🇸🇪 Lund University *('03-'04)*
+🇸🇪 Lund University *'03-'04*
 
 **BSc Computer Engineering**  
-🇻🇪 Universidad Simón Bolívar *('97-'04)*
+🇻🇪 Universidad Simón Bolívar *'97-'04*
 
 ## 🎙️ Speaking Merits
 🇧🇾 [CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
