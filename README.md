@@ -5,7 +5,7 @@ BSc Computer Engineering\
 PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37086623000)\
 [Executive MBA, IE](https://www.ie.edu/business-school/programs/mba/executive-mba-en/). Class of 2020
 
-## 📰 Financial Times, 2016...
+## 📰 Financial Times, >2016
 
 **Principal Engineer**\
 Internal Products\
@@ -36,7 +36,7 @@ FT.com\
 - Led the accessibility team's dev work, accreditation process and company-wide culture shift
 - Recruitment lead and hiring manager for 35+ team
 
-## 👩🏻‍💻 Previous Roles
+## 👩🏻‍💻 Previous Roles, <2016
 
 **Senior Engineer**\
 🇬🇧 Lyst\
