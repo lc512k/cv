@@ -61,19 +61,23 @@ FT.com\
 🇪🇸 Universidad Politécnica de Madrid, *Sep '07 – Apr '12*
 
 **Software Developer**\
-🇻🇪 Procter & Gamble, *Jul '05 – Dec '05*\
+🇻🇪 Procter & Gamble
+Jul '05 – Dec '05\
 `Java`
 
 **Software Engineer**\
-🇻🇪 DBAccess, *'04 – '05*\
+🇻🇪 DBAccess
+'04 – '05\
 `Java`
 
 **Software Engineer**\
-🇸🇪 Mondru AB, *Sep '03 – Dec '04*\
+🇸🇪 Mondru AB
+Sep '03 – Dec '04\
 `Java/JSP/SQL`
 
 **Software Developer**\
-🇻🇪 isWeb, *'02 - '03*\
+🇻🇪 isWeb
+'02 - '03\
 `Java/JSP/SQL`
 
 ## 🎓 Education
