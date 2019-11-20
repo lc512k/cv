@@ -6,7 +6,7 @@ BSc in Computer Engineering. PhD in Software Engineering and Usability, [publish
 
 IE Business School EBMA class of 2020
 
-## Financial Times 2016 - Present
+## Financial Times (2016 - Present)
 
 ### Principal Engineer - Internal Products
 *Feb 2018 – Present*
@@ -15,8 +15,8 @@ IE Business School EBMA class of 2020
 - Lead a group of 20 people, 8 direct reports
 - Establishing and overseeing 3-year tech strategy for various Internal Products teams
 - Responsible for hiring strategy in Internal Products
-- Co-led the creation and roll out of our Engineering Progression Framework https://engineering-progression.ft.com/ with 4 other principal engineers, our CTO and HR Business Partner
-- Created our first Junior Squad, a space for juniors to collaborate and further their careers, now replicated throughout FT Tech.
+- Co-led the creation and roll out of our [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR Business Partner
+- Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers, now replicated throughout FT Tech.
 
 ### Senior Engineer - Internal Products
 *Sep 2017 – Feb 2018*
@@ -32,10 +32,33 @@ IE Business School EBMA class of 2020
 - Lead the accessibility team's dev work, accreditation process and company-wide culture shift
 - Recruitment lead and hiring manager for 35+ team
 
-Speaker at:
+## Previous Roles
+
+## Education
+
+IE Business School (2019 – 2020)
+Executive MBA
+Madrid
+
+Universidad Politécnica de Madrid (2006 – 2012)
+PhD in Software Engineering and Usability
+Madrid
+
+Universidad Politécnica de Madrid (2005 – 2006)
+MSc in Software Enginering and Project Management
+Madrid
+
+Lund University (2003 – 2004)
+1-year exchange program at LTH Datavetenskap (Computer Science)
+Sweden
+
+Universidad Simón Bolívar (1997 – 2004)
+BSc Computer Engineering
+Venezuela
+
+## Speaking Merits
 - JSConfEU 2017 - Germany
 - O'Reilly Fluent Conference 2017 - USA
-- Shift Conference 2017 - Croatia
 - FullStack Conference 2017 - UK
 - JSConf Budapest 2017 - Hungary
 - NodeConfEU 2017 - Ireland
