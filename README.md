@@ -31,7 +31,7 @@ Internal Products\
 ### Senior Engineer
 FT.com\
 *Feb 2016 – Sep 2017*
-- Tech lead for Conversion team on FT.com
+- Tech lead for Conversion and Enterprise Tools teams on FT.com
 - Full-stack JS/Node developer
 - Line manager to 9 developers
 - Took FT.com from being inaccessible to fully WCAG2.0AA compliant in 6 months
@@ -42,7 +42,7 @@ FT.com\
 
 **Senior Engineer**\
 🇬🇧 Lyst *(Nov 2015 - Feb 2016)*
-Python/HTML
+Python/Django/HTML
 
 **Mobile Web Developer**\
 🇬🇧 Badoo *(Mar 2014 - Nov 2015)*
@@ -72,11 +72,11 @@ Java
 
 **Software Engineer**\
 🇸🇪 Mondru AB *(Sep 2003 – Dec 2004)*
-Java + web
+Java/JSP/SQL
 
 **Software Developer**\
 🇻🇪 isWeb *(2002 – 2003)*
-Java + web
+Java/JSP/SQL
 
 ## 🎓 Education
 
