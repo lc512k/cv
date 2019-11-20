@@ -36,19 +36,19 @@ IE Business School EBMA class of 2020
 
 ## Education
 
-🇪🇸🇬🇧IE Business School (2019 – 2020)
+🇪🇸🇬🇧**IE Business School (2019 – 2020)**  
 Executive MBA
 
-🇪🇸Universidad Politécnica de Madrid (2006 – 2012)
+🇪🇸**Universidad Politécnica de Madrid (2006 – 2012)**  
 PhD in Software Engineering and Usability
 
-🇪🇸Universidad Politécnica de Madrid (2005 – 2006)
+🇪🇸**Universidad Politécnica de Madrid (2005 – 2006)**  
 MSc in Software Enginering and Project Management
 
-🇸🇪Lund University (2003 – 2004)
+🇸🇪**Lund University (2003 – 2004)**  
 1-year exchange program at LTH Datavetenskap (Computer Science)
 
-🇻🇪Universidad Simón Bolívar (1997 – 2004)
+🇻🇪**Universidad Simón Bolívar (1997 – 2004)**  
 BSc Computer Engineering
 
 ## Speaking Merits
