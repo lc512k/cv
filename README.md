@@ -33,7 +33,7 @@ FT.com\
 - Full-stack JS/Node developer
 - Line manager to 9 developers
 - Took FT.com from being inaccessible to fully WCAG2.0AA compliant in 6 months
-- Lead the accessibility team's dev work, accreditation process and company-wide culture shift
+- Led the accessibility team's dev work, accreditation process and company-wide culture shift
 - Recruitment lead and hiring manager for 35+ team
 
 ## 👩🏻‍💻 Previous Roles
