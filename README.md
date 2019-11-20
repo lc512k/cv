@@ -70,7 +70,7 @@ Java
 
 **Software Engineer**\
 🇸🇪 Mondru AB, *Sep '03 – Dec '04*\
-Java/JSP/SQL
+Java/JSP/SQL 
 
 **Software Developer**\
 🇻🇪 isWeb, *'02 - '03*\
