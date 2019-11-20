@@ -84,7 +84,7 @@ FT.com\
 **BSc Computer Engineering**  
 🇻🇪 Universidad Simón Bolívar *(1997 – 2004)*
 
-## 🎤 Speaking Merits
+## 🎙️ Speaking Merits
 🇧🇾 [CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
 🇬🇧 [RenderConf 2018](https://2018.render-conf.com/talks)\
 🇪🇪 [Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
