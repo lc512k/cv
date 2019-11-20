@@ -4,7 +4,7 @@ I'm a London-based Software Engineer with 15 years of experience.\
 Currently leading 20+ person team at the [Financial Times](ft.com), driving our internal product transformation strategy.
 
 BSc in Computer Engineering.\
-PhD in Software Engineering and Usability, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000)\
+PhD in Software Engineering, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000)\
 Executive MBA, IE Business School. Class of 2020.
 
 ## 📰 Financial Times, '16 - now
