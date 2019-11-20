@@ -24,7 +24,7 @@ Internal Products\
 Internal Products\
 *Sep 2017 – Feb 2018*
 
-- Tech lead for GDPR. Led the tech strategy and the technical team that built our internal tools to comply with the incoming GDPR regulation in 2018
+- Tech lead for GDPR: Led the tech strategy and the technical team that built our internal tools to comply with GDPR
 - Responsible for tech recruitment in Internal Products
 - Led 12 people, 4 direct reports
 
