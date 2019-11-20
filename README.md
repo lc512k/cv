@@ -9,7 +9,7 @@ PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37
 
 **Principal Engineer**\
 Internal Products\
-*Feb 2018 – Present*
+*Feb '18 – Present*
 
 - Led the transformation of our HR function from 2 support people to a multidisciplinary Product & Technology team of 7, with a leadership team and a defined process for support and feature development
 - Lead a group of 20 engineers, 8 direct reports
@@ -20,7 +20,7 @@ Internal Products\
 
 **Senior Engineer**\
 Internal Products\
-*Sep 2017 – Feb 2018*
+*Sep '17 – Feb '18*
 
 - Tech lead for GDPR: Led the tech strategy and the technical team that built our internal tools to comply with GDPR
 - Responsible for tech recruitment in Internal Products
@@ -28,7 +28,7 @@ Internal Products\
 
 **Senior Engineer**\
 FT.com\
-*Feb 2016 – Sep 2017*
+*Feb '16 – Sep '17*
 - Tech lead for Conversion and Enterprise Tools teams on FT.com
 - Full-stack JS/Node developer
 - Line manager to 9 developers
