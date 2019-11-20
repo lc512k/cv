@@ -52,19 +52,19 @@ FT.com\
 **Co-founder & Head of User Experience**\
 🇪🇸Tocarta *(Sep 2011 - Aug 2012)*
 
-**Software Engineering and Usability Researcher**
+**Software Engineering and Usability Researcher**\
 🇪🇸Universidad Politécnica de Madrid *(Sep 2007 – Apr 2012)*
 
-**Software Developer**
+**Software Developer**\
 🇻🇪Procter & Gamble *(Jul 2005 – Dec 2005)*
 
-**Software Engineer**
+**Software Engineer**\
 🇻🇪DBAccess *(May 2004 – Jul 2005)*
 
-**Software Engineer**
+**Software Engineer**\
 🇸🇪Mondru AB *(Sep 2003 – Dec 2004)*
 
-**Software Developer**
+**Software Developer**\
 🇻🇪isWeb *(2002 – 2003)*
 
 ## Education
