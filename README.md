@@ -18,7 +18,7 @@ Internal Products\
 - Establishing and overseeing 3-year tech strategy for various Internal Products teams
 - Responsible for hiring strategy in Internal Products
 - Co-created the FT's [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR
-- Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers, now replicated throughout FT Tech.
+- Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers during 10% time, now replicated throughout FT Tech.
 
 ### Senior Engineer
 Internal Products\
@@ -31,7 +31,9 @@ Internal Products\
 ### Senior Engineer
 FT.com\
 *Feb 2016 – Sep 2017*
-- Hands-on tech lead for FT.com (full-stack JS) and line manager to 9 developers
+- Tech lead for Conversion team on FT.com
+- Full-stack Javascript developer
+- Line manager to 9 developers
 - Took FT.com from being inaccessible to fully WCAG2.0AA compliant in 6 months
 - Lead the accessibility team's dev work, accreditation process and company-wide culture shift
 - Recruitment lead and hiring manager for 35+ team
