@@ -32,7 +32,7 @@ Internal Products\
 FT.com\
 *Feb 2016 – Sep 2017*
 - Tech lead for Conversion team on FT.com
-- Full-stack Javascript developer
+- Full-stack JS/Node developer
 - Line manager to 9 developers
 - Took FT.com from being inaccessible to fully WCAG2.0AA compliant in 6 months
 - Lead the accessibility team's dev work, accreditation process and company-wide culture shift
@@ -42,15 +42,19 @@ FT.com\
 
 **Senior Engineer**\
 🇬🇧 Lyst *(Nov 2015 - Feb 2016)*
+Python/HTML
 
 **Mobile Web Developer**\
 🇬🇧 Badoo *(Mar 2014 - Nov 2015)*
+JavaScript/HTML/LESS
 
 **Front-end Engineer**\
 🇪🇸 Buongiorno *(Jan 2013 – Feb 2014)*
+JavaScript/HTML/LESS
 
 **Front-end Developer**\
 🇪🇸 Amaris *(Aug 2012 - Jan 2013)*
+JavaScript/HTML/CSS
 
 **Co-founder & Head of User Experience**\
 🇪🇸 Tocarta *(Sep 2011 - Aug 2012)*
@@ -60,15 +64,19 @@ FT.com\
 
 **Software Developer**\
 🇻🇪 Procter & Gamble *(Jul 2005 – Dec 2005)*
+Java
 
 **Software Engineer**\
 🇻🇪 DBAccess *(May 2004 – Jul 2005)*
+Java
 
 **Software Engineer**\
 🇸🇪 Mondru AB *(Sep 2003 – Dec 2004)*
+Java + web
 
 **Software Developer**\
 🇻🇪 isWeb *(2002 – 2003)*
+Java + web
 
 ## 🎓 Education
 
