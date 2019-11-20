@@ -57,7 +57,7 @@ BSc Computer Engineering
 Venezuela
 
 ## Speaking Merits
-- JSConfEU 2017 - Germany
+🇩🇪 [JSConfEU 2017](https://2017.jsconf.eu/speakers/laura-carvajal-yes-your-site-too-can-and-should-be-accessible-lessons-learned-from-building-ftcom.html)
 - O'Reilly Fluent Conference 2017 - USA
 - FullStack Conference 2017 - UK
 - JSConf Budapest 2017 - Hungary
