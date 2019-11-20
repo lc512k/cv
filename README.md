@@ -53,7 +53,7 @@ IE Business School EBMA class of 2020
 
 ## Speaking Merits
 🇩🇪 [JSConfEU 2017](https://2017.jsconf.eu/speakers/laura-carvajal-yes-your-site-too-can-and-should-be-accessible-lessons-learned-from-building-ftcom.html)
-- O'Reilly Fluent Conference 2017 - USA
-- FullStack Conference 2017 - UK
-- JSConf Budapest 2017 - Hungary
-- NodeConfEU 2017 - Ireland
+🇺🇸[O'Reilly Fluent Conference 2017](https://conferences.oreilly.com/fluent/fl-ca-2017/public/schedule/detail/58272)
+🇬🇧[FullStack Conference 2017]
+🇭🇺[JSConf Budapest 2017]
+🇮🇪[NodeConfEU 2017]
