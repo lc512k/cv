@@ -1,10 +1,11 @@
 # Laura Carvajal
 
-I'm a London-based software engineer with 15 years of experience. Currently leading 20+ person team driving internal product transformation strategy at the Financial Times.
+I'm a London-based software engineer with 15 years of experience.\
+Currently leading 20+ person team driving internal product transformation strategy at the Financial Times.
 
-BSc in Computer Engineering. PhD in Software Engineering and Usability, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000). 
-
-IE Business School EBMA class of 2020
+BSc in Computer Engineering.\
+PhD in Software Engineering and Usability, [published by IEEE](https://ieeexplore.ieee.org/author/37086623000). 
+Executive MBA, IE Business School. Class of 2020
 
 ## 📰 Financial Times (2016 - Present)
 
