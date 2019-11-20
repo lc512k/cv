@@ -84,10 +84,10 @@ Java/JSP/SQL
 **PhD in Software Engineering and Usability**  
 🇪🇸 Universidad Politécnica de Madrid *'06-'12*
 
-**MSc in Software Enginering and Project Management**  
+**MSc in Software Enginering**  
 🇪🇸 Universidad Politécnica de Madrid *'05-'06*
 
-**Exchange program**  
+**(Undergrad exchange program)**  
 🇸🇪 Lund University *'03-'04*
 
 **BSc Computer Engineering**  
