@@ -17,7 +17,7 @@ Internal Products\
 - Lead a group of 20 people, 8 direct reports
 - Establishing and overseeing 3-year tech strategy for various Internal Products teams
 - Responsible for hiring strategy in Internal Products
-- Co-created the FT's [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR Business Partner
+- Co-created the FT's [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR
 - Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers, now replicated throughout FT Tech.
 
 ### Senior Engineer
