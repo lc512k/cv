@@ -43,7 +43,7 @@ FT.com\
 **Mobile Web Developer**\
 🇬🇧 Badoo *(Mar 2014 - Nov 2015)*
 
-**Front-end Engineer**
+**Front-end Engineer**\
 🇪🇸 Buongiorno *(Jan 2013 – Feb 2014)*
 
 **Front-end Developer**\
