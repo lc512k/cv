@@ -1,5 +1,5 @@
 # Laura Carvajal
-I'm a Software Engineer with 15 years of experience, currently leading a 20 person team at the [Financial Times](https://www.ft.com), driving our internal product transformation strategy.
+I'm a Software Engineer with 15 years of experience, currently leading a 20 person team at the [Financial Times](https://www.ft.com), helping to drive our internal product transformation strategy.
 
 BSc Computer Engineering\
 PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37086623000)\
@@ -103,7 +103,7 @@ Sep '03 – Dec '04\
 **BSc Computer Engineering**  
 🇻🇪 Universidad Simón Bolívar *'97-'04*
 
-## 🎙️ Speaking Merits
+## 🎙️ Speaking Highlights 
 🇧🇾 [CSS-Minsk-JS 2019](https://css-minsk-js.by/speaker/laura-carvajal)\
 🇬🇧 [RenderConf 2018](https://2018.render-conf.com/talks)\
 🇪🇪 [Refresh Conference 2018](http://refresh.rocks/laura-carvajal)\
