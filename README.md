@@ -111,4 +111,4 @@ Sep '03 – Dec '04\
 🇺🇸 [O'Reilly Fluent Conference 2017](https://conferences.oreilly.com/fluent/fl-ca-2017/public/schedule/detail/58272)\
 🇬🇧 [FullStack Conference 2017](https://webcache.googleusercontent.com/search?q=cache:vSkD1LE1figJ:https://skillsmatter.com/skillscasts/10165-yes-your-site-can-be-accessible-lessons-learned-in-building-ft-com+&cd=1&hl=en&ct=clnk&gl=uk)\
 🇭🇺 [JSConf Budapest 2017](http://2017.jsconfbp.com/speakers/laura-carvajal/)\
-🇮🇪 [NodeConfEU 2017](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_)
+🇮🇪 [NodeConfEU 2017](https://www.youtube.com/watch?v=tGF4-lPTJR0&t=24s)
