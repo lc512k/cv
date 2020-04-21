@@ -3,7 +3,7 @@ I'm a Software Engineer with 15 years of experience, currently leading a 20 pers
 
 BSc Computer Engineering\
 PhD Software Engineering, [IEEE published](https://ieeexplore.ieee.org/author/37086623000)\
-[Executive MBA, IE](https://www.ie.edu/business-school/programs/mba/executive-mba-en/). Class of 2020
+[Executive MBA, IE](https://www.ie.edu/business-school/programs/mba/executive-mba-en/). Expected December 2020
 
 ## 📰 Financial Times, >2016
 
