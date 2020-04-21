@@ -12,8 +12,8 @@ Internal Products\
 *Feb '18 – Present*
 
 - Led the transformation of our HR function from 2 support people to a multidisciplinary Product & Technology team of 7, with a leadership team and a defined process for support and feature development
-- Lead a group of 20 engineers, 8 direct reports
-- Establishing and overseeing 3-year tech strategy for various Internal Products teams
+- Led a group of 20 engineers, 8 direct reports
+- Established and steered tech strategy for various Internal Products teams
 - Responsible for hiring strategy in Internal Products
 - Co-created the FT's [Engineering Progression Framework](https://engineering-progression.ft.com/) with 4 other principal engineers, our CTO and HR
 - Created our first Junior Squad, a space for Junior Engineers to collaborate and further their careers during 10% time, now replicated throughout FT Tech.
@@ -22,7 +22,7 @@ Internal Products\
 Internal Products\
 *Sep '17 – Feb '18*
 
-- Tech lead for GDPR: Led the tech strategy and the technical team that built our internal tools to comply with GDPR
+- Tech lead for GDPR: Led the tech strategy and architecture for the technical team that built our internal tools to comply with GDPR
 - Responsible for tech recruitment in Internal Products
 - Led 12 people, 4 direct reports
 
